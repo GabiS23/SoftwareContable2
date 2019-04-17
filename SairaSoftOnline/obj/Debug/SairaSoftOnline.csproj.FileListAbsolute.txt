@@ -1,0 +1,6 @@
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\bin\SairaSoftOnline.dll.config
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\bin\SairaSoftOnline.dll
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\bin\SairaSoftOnline.pdb
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\obj\Debug\SairaSoftOnline.csprojResolveAssemblyReference.cache
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\obj\Debug\SairaSoftOnline.dll
+c:\users\sairasoftpc\documents\visual studio 2013\Projects\SairaSoftOnline\SairaSoftOnline\obj\Debug\SairaSoftOnline.pdb
